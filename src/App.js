@@ -5,7 +5,7 @@ code
 preview
 
 Deploy
-Hey Nicolas, Quick input needed :
+Hey Nicolas; Quick input needed :
 Ask Question
 Agent will continue working after your reply
 🎯 PARFAIT ! Créons le frontend LeadMiner Pro (30 minutes)
